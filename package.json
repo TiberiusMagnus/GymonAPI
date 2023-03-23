@@ -1,4 +1,22 @@
 {
+  "name": "gymon-api",
+  "version": "1.0.0",
+  "description": "Gymon Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiberiusMagnus/GymonAPI"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiberiusMagnus/GymonAPI"
+  },
+  "homepage": "https://github.com/TiberiusMagnus/GymonAPI#readme",
   "dependencies": {
     "lowdb": "^5.1.0"
   }
